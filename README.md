@@ -1,5 +1,10 @@
-### Hi there 👋
+### ¡Bienvenido a mi GITHUB! 👋
 
+![Alvaro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Torres1373&count_private=true&show_icons=true&theme=dark)
+
+[![Top Langs Public Repo](https://github-readme-stats.vercel.app/api/top-langs/?username=Torres1373&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Visits Badge](https://badges.pufler.dev/visits/Torres1373/Torres1373)](https://badges.pufler.dev)
 <!--
 **Torres1373/Torres1373** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
