@@ -1,6 +1,6 @@
 ### ¡Bienvenido a mi GITHUB! 👋
 
-![Alvaro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Torres1373&count_private=true&show_icons=true&theme=dark)
+![Alvaro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Torres1373&count_private=false&show_icons=true&theme=dark)
 
 [![Top Langs Public Repo](https://github-readme-stats.vercel.app/api/top-langs/?username=Torres1373&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
