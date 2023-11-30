@@ -2,7 +2,7 @@
 
 ![Alvaro's GitHub stats](https://stats-vercel-opal.vercel.app/api?username=Torres1373&count_private=true&show_icons=true&theme=dark)
 
-[![Top Langs Public Repo](https://stats-vercel-opal.vercel.app/api/top-langs/?username=Torres1373&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs Public Repo](https://stats-vercel-opal.vercel.app/api/top-langs/?username=Torres1373&count_private=true&theme=dark)
 
 <!--
 [![Visits Badge](https://badges.pufler.dev/visits/Torres1373/Torres1373)](https://badges.pufler.dev)
